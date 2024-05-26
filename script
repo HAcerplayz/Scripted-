@@ -1,16 +1,12 @@
-ask.spawn(function()
-	if not makefolder then
-		LocalPlayer:Kick("Your executor does not support AlSploit. Switch to Delta or Fluxus")
+task.spawn(function()
+		LocalPlayer:Kick("Outdated Version!")")
 	end
  
-	if not writefile then
-		LocalPlayer:Kick("Your executor does not support AlSploit. Switch to Delta or Fluxus")
+		LocalPlayer:Kick("Outdated Version!")
 	end
  
-	if not readfile then
-		LocalPlayer:Kick("Your executor does not support AlSploit. Switch to Delta or Fluxus")
+		LocalPlayer:Kick("Outdated Version!")")
 	end
  
-	if not isfile then
-		LocalPlayer:Kick("Your executor does not support AlSploit. Switch to Delta or Fluxus")
+		LocalPlayer:Kick("Outdated Version!")")
 	end
